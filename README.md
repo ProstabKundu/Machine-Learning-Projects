@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-This repository will consist of ML projetcs
+This repository will consist of ML projects
